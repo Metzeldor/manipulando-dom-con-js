@@ -36,5 +36,3 @@ Además de los ejercicios y ejemplos proporcionados en este repositorio, se reco
 Si encuentras algún error, tienes sugerencias de mejora o deseas contribuir con ejemplos adicionales, ¡no dudes en abrir un *issue* o enviar un *pull request*!
 
 ## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](LICENSE).
